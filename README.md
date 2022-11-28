@@ -18,3 +18,20 @@ We are building a job recommendation system.
 |Preferred qualifications|False|
 |Job salary              |False    |
 |Job category            |False    |
+<br>
+
+# Users schema
+
+|Attribute               | Required|
+|--------------          |:-------:|
+|Username                |True     |
+|Email                   |True     |
+|First Name              |True     |
+|Last Name               |True     |
+|Title                   |True     |
+|Residence               |True     |
+|Resume/CV               |True     |
+|Gender                  |False    |
+|Date of Birth           |False    |
+|About                   |False    |
+
