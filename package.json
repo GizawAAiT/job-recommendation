@@ -1,0 +1,22 @@
+{
+  "name": "job-recommendation",
+  "version": "1.0.0",
+  "description": "We are building a job recommendation system.\r # Team members   \r | Name          |University ID|University|                        Country|\r ----------------|:-----------:|:---------------------------------:|:--------------:|\r | Sefineh Tesfa |UGR/2844/12  |Addis Ababa Institute of Technology|        Ethiopia|\r |Birehan Anteneh|UGR/4886/12  |Addis Ababa Institute of Technology|        Ethiopia|\r |Gizaw Dagne    |UGR/6640/12  |Addis Ababa Institute of Technology|        Ethiopia|\r <br>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefinehtesfa34/job-recommendation.git"
+  },
+  "author": "sefineh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sefinehtesfa34/job-recommendation/issues"
+  },
+  "homepage": "https://github.com/sefinehtesfa34/job-recommendation#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
