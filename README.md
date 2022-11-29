@@ -11,6 +11,7 @@ We are building a job recommendation system.
 # Jobs schema
 |Attribute               | Required|
 |--------------          |:-------:|
+|userId                  |True     |
 |Job title               |True     |
 |Job description         |True     |
 |Qualifications          |True     |
